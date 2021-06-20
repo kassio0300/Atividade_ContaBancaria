@@ -19,8 +19,8 @@ IMPORTANT: Vídeo: https://youtu.be/isOY-qG5bxU[🧪⚙️☕️ #1 TDD com JUNI
 Este projeto fornece um conjunto de classes base para que sejam implementados testes unitários.
 O diagrama abaixo apresenta as classes existentes. O projeto fornece documentação dos requisitos a serem implementados
 
-.Diagrama das Classes de Negócio do Sistema Bancário (pacote link:src/main/java/com/sistemabancario/model[model]).
-image::diagrama-classes-model.png[]
+.Diagrama das Classes de Negócio do Sistema Bancário (pacote link:C:\Users\kassi\Desktop\captura\manoel\certo\sistema-bancario-master).
+![](relatorio.png)
 
 {nbsp} + 
 
